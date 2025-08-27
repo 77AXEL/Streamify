@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Streamify" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Streamify.Splash" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen</item>
+        <item name="windowSplashScreenBackground">@color/splash_screen</item>
+    </style>
+
+</resources>
