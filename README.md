@@ -23,7 +23,7 @@ A fast and lightweight tool to mirror your Android device's screen to your compu
 * **Lightweight** – No heavy dependencies used.
 * **Minimal Latency** – Uses MJPEG/TCP streaming for smooth playback.
 * **No Root Required** – Works on any Android device with USB debugging enabled.
-* **Open Source** – Fully customizable for developers to extend or integrate.
+* **Open Source** – Fully customizable for developers to extend or integrate: <a href="https://github.com/77AXEL/Streamify/blob/main/source">Source code</a>.
 
 ---
 
